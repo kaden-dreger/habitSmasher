@@ -29,3 +29,6 @@ To make progress on your existing habits, you can add specific instances (with l
 <img src="https://user-images.githubusercontent.com/43623225/163737168-c8ccaf7c-ef26-4bc1-b324-dd0c6a0f7628.gif" width="200"/>
 
 ### Testing
+This project is accompanied with unit tests and automated UI tests. These tests can be found/run from the following directories:
+* Unit tests: `app/src/test/java/com/example/habitsmasher`
+* UI tests: `app/src/androidTest/java/com/example/habitsmasher/MainActivityTest.java`
